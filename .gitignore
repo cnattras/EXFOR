@@ -1,0 +1,16 @@
+vscode/
+*.swp
+__pycache__/
+build/
+*.egg-info
+.egg
+lib/
+.ipynb_checkpoints
+.pyc
+.pytest_cache
+.coverage
+
+# add tutorial python notebook files
+#  to avoid merge issues 
+tutorials/exfor_parserpy_tutorial.ipynb
+tutorials/get_exfor_library.ipynb
