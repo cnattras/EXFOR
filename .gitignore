@@ -9,8 +9,22 @@ lib/
 .pyc
 .pytest_cache
 .coverage
+.pdf
+.so
+.exe
+.installed.cfg
+ipython_config.py
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+
 
 # add tutorial python notebook files
 #  to avoid merge issues 
-tutorials/exfor_parserpy_tutorial.ipynb
-tutorials/get_exfor_library.ipynb
+exfor_parserpy_tutorial.ipynb
+get_exfor_library.ipynb
